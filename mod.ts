@@ -1,4 +1,3 @@
-
 /** Israeli government issued ID number `check digit validation only` module. */
 export function isIsraeliIdValid(id: string): boolean {
   id = id.trim();
